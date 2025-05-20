@@ -29,10 +29,6 @@ This single-page app simulates the official site for Arden Flux, NorCal’s fict
 
 ---
 
-### 🖼️ Screenshots
-
-> These are placeholder images — final assets will be added directly to the repo folder named `/readme-assets` to avoid conflicts with site assets.
-
 #### Homepage Hero
 
 ![Hero CTA](./readme-assets/01-heading-call-to-action.png)
