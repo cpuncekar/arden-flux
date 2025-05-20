@@ -42,7 +42,7 @@ This single-page app simulates the official site for Arden Flux, NorCal’s fict
 ![Join + Partners](./readme-assets/03-join-our-team.png)
 
 ---
-[Visit](https://arden-flux-gaming.netlify.app)
+Visit the site - [Arden Flux Gaming](https://arden-flux-gaming.netlify.app)
 
 Project created by The Creative Pro
 https://github.com/cpuncekar
